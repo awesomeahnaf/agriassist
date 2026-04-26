@@ -1,0 +1,6 @@
+{
+  "name": "AgriAssist",
+  "description": "A web-based agricultural advisory and crop problem case tracking system for farmers in Bangladesh, supporting Bangla language.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": []
+}
