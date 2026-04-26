@@ -25,10 +25,6 @@ This project is built with **React**. It uses your browser's **localStorage** to
    ```
 5. Open your browser and go to: `http://localhost:5173` (or the URL shown in your terminal).
 
-## Standalone Version
-
-If you don't want to use Node.js at all, I have included a file named **`AgriAssist_Standalone.html`** in the root folder. You can simply **double-click** this file to run the entire application instantly in your browser!
-
 ## Features
 
 - **Farmer Dashboard:** Submit crop problems and track status.
