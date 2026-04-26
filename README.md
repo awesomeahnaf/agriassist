@@ -23,7 +23,7 @@ This project is built with **React**. It uses your browser's **localStorage** to
    ```bash
    npm run dev
    ```
-5. Open your browser and go to: `http://localhost:5173` (or the URL shown in your terminal).
+5. Open your browser and go to:  the URL shown in your terminal 
 
 ## Features
 
